@@ -6,3 +6,6 @@ After that download these files and run the os build command in terminal. After 
 Exit docker and run the qemu commands in power shell. The final result will than be displayed on your screen.
 I learned all of this from the following youtube video series
 https://www.youtube.com/watch?v=FkrpUaGThTQ&list=WL&index=1
+OUTPUT:
+![image](https://user-images.githubusercontent.com/60285905/115124911-6e7a5880-9fde-11eb-8226-7a3be51d8dc2.png)
+
